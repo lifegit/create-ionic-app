@@ -1,6 +1,6 @@
 # ionic-app
 
-初唐房地产营销公司的员工端app
+ionic-app demo
 
 
 ## 介绍
